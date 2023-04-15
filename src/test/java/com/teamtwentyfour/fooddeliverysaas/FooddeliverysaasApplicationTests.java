@@ -51,7 +51,7 @@ class FooddeliverysaasApplicationTests {
                 .name("Mockwich")
                 .desc("Mock sandwich")
                 .price(12.34)
-                .store_id("fsaSAFHe3r8a934dr8wb3ycds")
+                .storeid("fsaSAFHe3r8a934dr8wb3ycds")
                 .build();
     }
 
